@@ -2,3 +2,5 @@
 
 #define D4 4
 #define D19 19
+#define D2 2
+#define D18 18
